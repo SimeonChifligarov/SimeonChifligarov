@@ -1,4 +1,5 @@
 ### Hi there 👋
+Python Enthusiast 🐍 here!
 
 <!--
 **SimeonChifligarov/SimeonChifligarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently learning & upgrading my skills:
+- Algorithms with Python
+- Data Science
+- Math Concepts for Developers
+- SQL
+- HTML & CSS
+- Agile & Scrum
+- Train the Trainers (course for educators)
 
 
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimeonChifligarov&show_icons=true&include_all_commits=true&hide_border=true" alt="SimeonChifligarov's GitHub Stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonChifligarov&layout=compact&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimeonChifligarov&show_icons=true&include_all_commits=true&hide_border=true" alt="SimeonChifligarov's GitHub Stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonChifligarov&layout=compact&hide_border=true" /></a> |
 
 ### GitHub Trophies
 
