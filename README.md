@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ### GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimeonChifligarov&show_icons=true&include_all_commits=true&hide_border=true" alt="SimeonChifligarov's GitHub Stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonChifligarov&layout=compact&hide_border=true" /></a> |
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SimeonChifligarov&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonChifligarov&layout=compact&hide_border=true" /></a> |
+
+### GitHub Trophies
+
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SimeonChifligarov's&column=4" alt="SimeonChifligarov's GitHub Trophies" /></a>
