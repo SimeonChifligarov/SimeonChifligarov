@@ -1,5 +1,5 @@
 ### Hi there 👋
-Python Enthusiast 🐍 here!
+**Python Enthusiast** 🐍 here!
 
 <!--
 **SimeonChifligarov/SimeonChifligarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning & upgrading my skills:
-- Algorithms with Python
-- Data Science
-- Math Concepts for Developers
-- SQL
-- HTML & CSS
-- Agile & Scrum
-- Train the Trainers (course for educators)
+- Algorithms with Python, Data Science, Math Concepts for Developers
+- SQL, Git, HTML & CSS
+- Agile & Scrum, Train the Trainers (course for educators)
 
 
 ### GitHub Stats
