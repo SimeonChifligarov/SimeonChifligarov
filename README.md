@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### GitHub Trophies
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SimeonChifligarov&column=4" alt="SimeonChifligarov's GitHub Trophies" /></a>
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SimeonChifligarov&column=8" alt="SimeonChifligarov's GitHub Trophies" /></a>
