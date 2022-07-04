@@ -1,6 +1,3 @@
-### Hi there 👋
-**Python Enthusiast** 🐍 here!
-
 <!--
 **SimeonChifligarov/SimeonChifligarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning & upgrading my skills:
-- Algorithms with Python, Data Science, Math Concepts for Developers
-- SQL, Git, HTML & CSS
-- Agile & Scrum, Train the Trainers (course for educators)
+### Hi there 👋
+**Python Enthusiast** 🐍 here!  
 
+```
+me = Developer(  
+    name='Simeon', main_skills=['Python', 'JS', 'Django', 'PostgreSQL'],  
+    additional_skills=['HTML & CSS', 'HTTP', 'Agile & Scrum'], ide=['PyCharm', 'VSC'],  
+    others=['unittest', 'Mocha', 'Chai', 'GitBash', 'PgAdmin', 'Chrome Developers Tools', 'Postman', 'SPSS']  
+)
+```
+
+---
 
 ### GitHub Stats
 
@@ -30,3 +34,10 @@ Here are some ideas to get you started:
 ### GitHub Trophies
 
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SimeonChifligarov&column=7" alt="SimeonChifligarov's GitHub Trophies" /></a>
+
+---
+
+🌱 I’m currently learning & upgrading my skills:
+- Algorithms with Python, Data Science, Math Concepts for Developers
+- SQL, Git, HTML & CSS
+- Agile & Scrum, Train the Trainers (course for educators)
