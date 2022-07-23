@@ -37,6 +37,8 @@ me = Developer(
 ---
 
 🌱 I’m currently learning & upgrading my skills:
+- The Data Science Course 2022: Complete Data Science Bootcamp (Udemy)
+- Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Algorithms with Python, Data Science, Math Concepts for Developers
 - SQL, Git, HTML & CSS
 - Agile & Scrum, Train the Trainers (course for educators)
