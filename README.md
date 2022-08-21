@@ -37,6 +37,7 @@ me = Developer(
 ---
 
 🌱 I’m currently learning & upgrading my skills:
+- Databricks Academy (courses)
 - The Data Science Course 2022: Complete Data Science Bootcamp (Udemy)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
 - Data Science, Math Concepts for Developers, Algorithms with Python
