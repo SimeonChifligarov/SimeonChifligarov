@@ -17,7 +17,7 @@ Hi there 👋, **Python Enthusiast** 🐍 here!
 
 ```
 me = Developer(  
-    name='Simeon', main_skills=['Python', 'JS', 'Django', 'PostgreSQL'],  
+    name='Simeon', main_skills=['Python', 'JS', 'Spark', 'Airflow', 'Docker', 'Django', 'PostgreSQL'],  
     additional_skills=['HTML & CSS', 'HTTP', 'Agile & Scrum'], ide=['PyCharm', 'VSC'],  
     others=['unittest', 'Mocha', 'Chai', 'GitBash', 'PgAdmin', 'Chrome Developers Tools', 'Postman', 'SPSS']  
 )
@@ -37,8 +37,12 @@ me = Developer(
 ---
 
 🌱 I’m currently learning & upgrading my skills:
+- Apache Spark (Databricks & Udemy)
+- Apache Airflow (Udemy)
+- Docker & Kubernetes (Udemy)
+- OpenShift (Udemy)
 - Databricks Academy (courses)
 - The Data Science Course 2022: Complete Data Science Bootcamp (Udemy)
 - Machine Learning A-Z™: Hands-On Python & R In Data Science (Udemy)
-- Data Science, Math Concepts for Developers, Algorithms with Python
+- Machine Learning, Data Science, Math Concepts for Developers, Algorithms with Python
 - SQL, Git, HTML & CSS
